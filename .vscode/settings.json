@@ -1,0 +1,18 @@
+{
+	"cSpell.words": [
+		"autofocus",
+		"bincode",
+		"bindgen",
+		"daisyui",
+		"dotenv",
+		"dotenvy",
+		"evenodd",
+		"heroicons",
+		"leptos",
+		"linecap",
+		"linejoin",
+		"oneshot"
+	],
+	"rust-analyzer.linkedProjects": ["./Cargo.toml"],
+	"rust-analyzer.cargo.features": "all"
+}
