@@ -2,7 +2,7 @@
 # RUSTFLAGS must be set here, not in `Cargo.toml`, because `leptos` apparently
 # does not respect `Cargo.toml`'s `RUSTFLAGS`.
 watch:
-	RUSTFLAGS=--cfg=web_sys_unstable_apis LEPTOS_TAILWIND_VERSION=v4.1.1 cargo leptos watch --hot-reload
+	RUSTFLAGS=--cfg=web_sys_unstable_apis LEPTOS_TAILWIND_VERSION=v4.1.4 cargo leptos watch --hot-reload
 
 # Open the browser to the local server started by `cargo leptos`.
 open:
